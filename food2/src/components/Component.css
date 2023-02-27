@@ -1,0 +1,150 @@
+
+.icon{
+    padding-left:30px;
+  }
+  h3{
+    margin-left: 23px;
+  }
+  .footer{
+    list-style-type: none;
+  }
+  .logo{
+    height: 90px;
+    width: 130px;
+    margin-left: 35px;
+  }
+  .navfont{
+    font-size: 23px;
+    color: rgb(13, 222, 17) ;
+    margin-left: 500px;
+    
+  }
+  .space{
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+  }
+  .responsive{
+    flex-direction: row; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+ }
+ .bgcolor{
+background-color: white;
+/* margin-top: 5px;
+margin-bottom: 5px; */
+/* border:  1px solid black; */
+ }
+ #navbarScroll{
+    margin-right: 40px;
+ }
+.span{
+  text-align: justify !important;
+  justify-content: left;
+  margin-top: 50px;
+  margin-bottom: 50px;
+ 
+   align-items: center;
+ text-align-last: left;
+ /* border: 1px solid black; */
+ font-size: 40px;
+ margin-left: -60px;
+
+}
+.text{
+  text-align: justify;
+  /* border: 1px solid black; */
+  margin-top: 40px;
+  font-size: 17px;
+  height: 200px;
+  justify-content: left;
+  text-align-last: left;
+  width: 180px;
+  font-weight: normal;
+  white-space: 2px;
+  padding-top: 20px;
+}
+.footbottom{
+  text-align-last: left;
+  margin-left: -60px;
+}
+.colorbg{
+  background-color: whitesmoke;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.contact{
+  text-align-last: left;
+  margin-left: 30px;
+  margin-top: 60px;
+  /* margin-bottom: 30px; */
+}
+.form-label1{
+  margin-right: 15px;
+}
+.form-label2{
+  margin-right: 10px;
+  margin-left: 30px;
+}
+.form-label3{
+  margin-right: 50px;
+}
+.form-label4{
+  margin-right: 20px;
+  margin-left: 30px;
+}
+.form-label5{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align:justify;
+
+}
+
+.form-control{
+  width: 200px;
+  /* margin-bottom: 20px; */
+}
+.formbtn{
+  margin-top: 20px;
+}
+.Textmessage textarea{
+  width:30rem;
+}
+.inputtext{
+  /* display: flex; */
+  /* margin-left: 30px; */
+}
+.align1{
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.align2{
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.pathdata{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  /* padding-top: 20px; */
+}
+.button{
+  border-radius: 5px;
+  background-color: rgb(117, 117, 229);
+  border: none;
+}
+.backendimg{
+  background-color: cornflowerblue;
+}
+.serch-button{
+  border-radius: 10px;
+  margin-left: 5px !important;
+}
+.bi-facebook{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+ 
